@@ -1,0 +1,27 @@
+{
+  "name": "lyncs",
+  "version": "1.0.0",
+  "description": "A Google Drive Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfcsilva/Lyncs.git"
+  },
+  "keywords": [
+    "Google",
+    "Drive",
+    "Files"
+  ],
+  "author": "Rúben Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfcsilva/Lyncs/issues"
+  },
+  "homepage": "https://github.com/rfcsilva/Lyncs#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
